@@ -1,0 +1,11 @@
+name = input("who are you?")
+city = input("where are you from?")
+edu = input("what is your education?")
+age = input("how old are you?")
+
+print("so according to you!")
+print(f'you are {name}')
+print(f'you are from {city}')
+print(f'you are {edu}')
+print(f'you are {age} years old')
+print("well i dont believe it!")

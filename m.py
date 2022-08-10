@@ -1,0 +1,16 @@
+import turtle 
+t = turtle.Turtle()
+speed=("slowest")
+t.penup()
+t.goto(-30,50)
+t.pendown()
+t.pensize(25)
+t.pencolor("cyan",)
+t.right(90)
+t.forward(150)
+t.goto(-30,50)
+t.goto(20,-20)
+t.goto(65,50)
+t.goto(65,-100)
+mainloop()
+
